@@ -1,0 +1,14 @@
+div#recipes {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+}
+
+h1 {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: blue;
+    background-color: red;
+    text-align: center;
+}
